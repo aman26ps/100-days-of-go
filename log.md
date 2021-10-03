@@ -7,3 +7,10 @@
 
 **Thoughts:** Its overwhelming to start this journey as i have a problem with consistency but commiting it to public might help, but golang is very interesting and full of surprises :)
 
+### Day 1: October 3, 2021
+
+**Today's Progress**: Practiced sample problems, learnt about how to declare variables in golang which are idiomatic, go code best practices
+
+**Thoughts:** Feeling a bit comfortable after practicing simple yet engaging problems, learnt about how different variable assignment works and what are the best practices to write go code.
+
+
