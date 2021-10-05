@@ -13,10 +13,16 @@
 
 **Thoughts:** Feeling a bit comfortable after practicing simple yet engaging problems, learnt about how different variable assignment works and what are the best practices to write go code.
 
-### Day 2: October 3, 2021
+### Day 2: October 4, 2021
 
 **Today's Progress**: Learnt about raw string literal use cases,unicode package,string different functions and manipulation from string library
 
 **Thoughts:** Intersting to see different operations can be done on strings and how different strings will be handled differently by go, waiting to understand more on runes.
+
+### Day 3: October 5, 2021
+
+**Today's Progress**: Learnt about what is iota and how to use contants in Go.
+
+**Thoughts:** was busy whole day so couldn't do much, will come back stronger tomorrow.
 
 
